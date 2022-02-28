@@ -1,19 +1,17 @@
 # Russian Invasion of Ukraine
 
 This API gets you the latest news about the Russian Invasion of Ukraine
-
+<br>
 This was created with: https://github.com/kubowania/climate-change-live-api
 <br>
 <br>
-<br>
-<br>
-## Hosted on RapidAPI
 
+## Hosted on RapidAPI
+<br>
 RapidAPI link: https://rapidapi.com/boogeyman-is-back-at-crabfest/api/russian-ukraine-news
 <br>
 <br>
-<br>
-<br>
+
 
 
 
