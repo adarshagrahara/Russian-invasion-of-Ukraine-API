@@ -6,7 +6,7 @@ This was created with: https://github.com/kubowania/climate-change-live-api
 
 ## Hosted on RapidAPI
 
-https://rapidapi.com/boogeyman-is-back-at-crabfest/api/russian-ukraine-news
+RapidAPI link: https://rapidapi.com/boogeyman-is-back-at-crabfest/api/russian-ukraine-news
 
 
 ## MIT Licence
